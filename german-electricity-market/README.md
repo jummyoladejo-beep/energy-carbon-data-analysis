@@ -53,8 +53,4 @@ The analysis is intended to demonstrate how quantitative energy data can be used
 - Python – developing
 - PowerBi – currently learning
 
-## Author
 
-Jumoke Oladejo
-Energy & Sustainability Researcher  
-PhD Energy Technologies
