@@ -21,7 +21,7 @@ The analysis is primarily conducted using Microsoft Excel, with data-analysis me
 
 ## Reproducibility
 
-The analytical datasets are derived from the data in `data/raw/` and `data/processed/`.
+The analytical datasets are derived from the data in the raw folder.
 
 Where applicable, calculations, transformations and assumptions are documented within the analysis files or supporting documentation.
 
